@@ -1,19 +1,47 @@
-## Hi 👋, I'm Suraj Ombase
+<div align="center">
 
-💻 Python Full Stack Developer | Software Engineering Student  
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Suraj%20Ombase&fontSize=40&fontAlignY=35"/>
 
-I am a passionate Python Full Stack Developer with hands-on experience in building web applications using **Python, Django/Flask, React.js, HTML, CSS, JavaScript, and SQL**.
+### Hola 👋, This is Suraj Ombase  
 
-### 🔧 Tech Stack
-- **Backend:** Python, Django, Flask  
-- **Frontend:** React.js, HTML, CSS, JavaScript  
-- **Database:** PostgreSQL, MySQL  
-- **Tools:** Git, GitHub
+💻 **Python Full Stack Developer** | 🎓 Software Engineering Student  
 
-### 🚀 What I Do
-- Build full stack web applications  
-- Create REST APIs  
-- Work on academic & real-world projects  
+</div>
 
-🌱 Currently learning advanced backend concepts  
-📌 Open to entry-level developer roles
+---
+
+### 🚀 About Me
+- Passionate **Python Full Stack Developer** driven by problem-solving and clean code  
+- Experience in building **web applications, REST APIs, and database-driven systems**  
+- Interested in **backend development, scalable applications, and real-world projects**  
+- Always learning and improving 🚀  
+
+---
+
+### 🛠️ Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,django,flask,react,html,css,js,postgres,mysql,git,github" />
+</p>
+
+---
+
+### 📌 What I’m Working On
+- Full stack web projects  
+- Backend APIs with Python  
+- Strengthening DSA & system design basics  
+
+---
+
+### 🤝 Let’s Connect
+- 💼 LinkedIn: www.linkedin.com/in/suraj-ombase-4245235Vanity U  
+- 📧 Email: surajombase89@gmail.com  
+
+---
+
+<div align="center">
+
+✨ *“Building scalable web solutions with Python..”* ✨  
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+
+</div>
