@@ -33,7 +33,7 @@
 ---
 
 ### 🤝 Let’s Connect
-- 💼 LinkedIn: www.linkedin.com/in/suraj-ombase-4245235Vanity  
+- 💼 LinkedIn: www.linkedin.com/in/surajombase89  
 - 📧 Email: surajombase89@gmail.com  
 
 ---
