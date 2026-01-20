@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Suraj%20Ombase&fontSize=40&fontAlignY=35"/>
 
-### Hola 👋, This is Suraj Ombase  
+### Hello 👋, This is Suraj Ombase  
 
 💻 **Python Full Stack Developer** | 🎓 Software Engineering Student  
 
